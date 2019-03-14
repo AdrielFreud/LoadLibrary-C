@@ -27,7 +27,7 @@ void call_dll(char *name_dll, char *function){
 	}
 
 	stcall_t search = (stcall_t)GetProcAddress(path_dll, function);
-	const char result = search();
+	search();
 	FreeLibrary(path_dll);
 }
 
