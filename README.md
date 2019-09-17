@@ -21,12 +21,12 @@ void call_dll(char *name_dll, char *function){
 ```
 
 ## AVISO
-- Caso você encontrar um bug [Click-aqui](https://github.com/AdrielFreud/LoadLibrary-C/issues/new) e crie um issue para eu corrijir o bug.
+- Caso você encontrar um bug [Click-aqui](https://github.com/AdrielFreud/LoadLibrary-C/issues/new) crie um issue para eu corrigi-lo.
 
 ## Imagem
 ![photo]()
  
- ## Dowloand
+ ## Download
 Baixe diretamente do github com:
  - git clone https://github.com/AdrielFreud/LoadLibrary-C.git
  - ou https://github.com/AdrielFreud/LoadLibrary-C/archive/master.zip
